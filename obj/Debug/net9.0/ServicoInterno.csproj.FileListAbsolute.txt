@@ -1,0 +1,14 @@
+/home/jeanfrs/Projects/ServicoInterno/bin/Debug/net9.0/ServicoInterno
+/home/jeanfrs/Projects/ServicoInterno/bin/Debug/net9.0/ServicoInterno.deps.json
+/home/jeanfrs/Projects/ServicoInterno/bin/Debug/net9.0/ServicoInterno.runtimeconfig.json
+/home/jeanfrs/Projects/ServicoInterno/bin/Debug/net9.0/ServicoInterno.dll
+/home/jeanfrs/Projects/ServicoInterno/bin/Debug/net9.0/ServicoInterno.pdb
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.AssemblyInfoInputs.cache
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.AssemblyInfo.cs
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.csproj.CoreCompileInputs.cache
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.dll
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/refint/ServicoInterno.dll
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.pdb
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ServicoInterno.genruntimeconfig.cache
+/home/jeanfrs/Projects/ServicoInterno/obj/Debug/net9.0/ref/ServicoInterno.dll
